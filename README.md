@@ -24,6 +24,7 @@ Here are some details about my setup:
 - System Info: [neofetch](https://github.com/dylanaraps/neofetch)
 - Desktop System Manager: [conky](https://github.com/brndnmtthws/conky)
 ---
+- Browser: [Firefox](https://github.com/mozilla/)
 - File Manager: [Thunar](https://docs.xfce.org/xfce/thunar/start)
 - Ebook Reader: [zathura](https://github.com/pwmt/zathura)
 - Image Viewer: [qView](https://github.com/jurplel/qView)
@@ -42,7 +43,15 @@ Here are some details about my setup:
 - Clone this repo to your preferred directory and cd into it - ```git clone https://github.com/DvorakDwarf/dotfiles.git```
 
 - Install all the pacman stuff
-	- ```sudo pacman -Su --needed base-devel coreutils xorg feh ttf-iosevka-nerd i3 xorg-xinit zsh zsh-completions lxappearance```
+	- ```sudo pacman -S base-devel coreutils xorg feh ttf-iosevka-nerd i3 xorg-xinit zsh zsh-completions lxappearance flameshot polybar ly rofi dunst picom mpv thunar thunar-archive-plugin conky```
+- Install my recommended programs
+	- ```sudo pacman -S neofetch zathura firefox qview discord steam```
+- Install paru (AUR helper)
+	- ```git clone https://aur.archlinux.org/paru.git```
+	- ```cd paru```
+	- ```makepkg -si```
+- Install AUR packages
+	- ```paru -S zscroll-git betterdiscord-installer visual-studio-code-bin graphite-gtk-theme oh-my-zsh-git ```
 - Copy necessary configs -
 	- ```cp -rf .bin .Xresources .xinitrc ~```
     - If you won't use my bashrc then add ```.bin``` to your $PATH variable
