@@ -6,22 +6,18 @@ My dotfiles on arch linux. WIP
 # Information
 Here are some details about my setup:
 - OS: [Arch Linux](https://archlinux.org/)
-- Terminal: [Wezterm](https://github.com/wez/wezterm)
-- Shell: [Bash](https://www.gnu.org/software/bash/)
-- WM: [dwm-flexipatch](https://github.com/bakkeby/dwm-flexipatch)
+- Terminal: [Alacritty](https://github.com/alacritty/alacritty)
+- Shell: [oh-my-zsh](https://ohmyz.sh/)
+- WM: [i3](https://i3wm.org/)
 - Login Manager: [ly](https://github.com/fairyglade/ly)
-- Editor: [nvim](https://github.com/neovim/neovim)
+- Editor: [vscode](https://github.com/microsoft/vscode)
 ---
-- Status Bar: vanilla dwm bar
-- Status Content: [luastatus](https://github.com/shdown/luastatus)
+- Status Bar: [polybar](https://github.com/polybar/polybar)
 - Lock Screen: [slock-flexipatch](https://github.com/bakkeby/slock-flexipatch)
 - App Menu: [rofi](https://github.com/davatorium/rofi)
 - Network Menu: [networkmanager-dmenu](https://github.com/firecat53/networkmanager-dmenu)
-- Dropdown Menu: [tdrop](https://github.com/noctuid/tdrop)
-- Notification Daemon: [Linux Notification Center](https://github.com/phuhl/linux_notification_center)
+- Notification Daemon: [Dunst](https://github.com/dunst-project/dunst)
 - AUR helper: [Paru](https://github.com/Morganamilo/paru)
-- Power Management: [Xfce Power Manger](https://docs.xfce.org/xfce/xfce4-power-manager/start)
-- Brightness Control: [brightnessctl](https://github.com/Hummer12007/brightnessctl)
 - Compositor: [picom](https://github.com/yshui/picom)
 ---
 - Font: [Iosevka Nerd Font](https://www.nerdfonts.com/)
