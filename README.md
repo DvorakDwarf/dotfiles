@@ -42,7 +42,7 @@ Here are some details about my setup:
 - Clone this repo to your preferred directory and cd into it - ```git clone https://github.com/DvorakDwarf/dotfiles.git```
 
 - Install all the pacman stuff
-	- ```sudo pacman -Su --needed base-devel coreutils xorg feh ttf-iosevka-nerd i3 xorg-xinit```
+	- ```sudo pacman -Su --needed base-devel coreutils xorg feh ttf-iosevka-nerd i3 xorg-xinit zsh zsh-completions lxappearance```
 - Copy necessary configs -
 	- ```cp -rf .bin .Xresources .xinitrc ~```
     - If you won't use my bashrc then add ```.bin``` to your $PATH variable
