@@ -22,16 +22,13 @@ Here are some details about my setup:
 ---
 - Font: [Iosevka Nerd Font](https://www.nerdfonts.com/)
 - System Info: [neofetch](https://github.com/dylanaraps/neofetch)
+- Desktop System Manager: [conky](https://github.com/brndnmtthws/conky)
 ---
 - File Manager: [Thunar](https://docs.xfce.org/xfce/thunar/start)
 - Ebook Reader: [zathura](https://github.com/pwmt/zathura)
 - Image Viewer: [qView](https://github.com/jurplel/qView)
 - Video Player: [mpv](https://github.com/mpv-player/mpv)
 - ScreenShot: [Flameshot](https://github.com/flameshot-org/flameshot)
-- Wallpaper Setter: [feh](https://github.com/derf/feh)
-- Color Picker: [Gpick](https://github.com/thezbyg/gpick)
-- Clipboard Manager: [greenclip](https://github.com/erebe/greenclip)
-- Calculator: [rofi-calc](https://github.com/svenstaro/rofi-calc)
 
 # Setup 
 
@@ -46,9 +43,6 @@ Here are some details about my setup:
 
 - Install mandatory dependencies
 	- ```sudo pacman -Su --needed base-devel coreutils xorg wezterm lua feh ttf-iosevka-nerd ttc-iosevka wmctrl```
-	- Install luastatus
-		- ```sudo pacman -Su --needed cmake yajl python-docutils```
-		- Continue from here - [luastatus](https://github.com/shdown/luastatus#installation)
 - Copy necessary configs -
 	- ```cp -rf .bin .Xresources .xinitrc ~```
     - If you won't use my bashrc then add ```.bin``` to your $PATH variable
