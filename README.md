@@ -21,10 +21,9 @@ Here are some details about my setup:
 - Compositor: [picom](https://github.com/yshui/picom)
 ---
 - Font: [Iosevka Nerd Font](https://www.nerdfonts.com/)
-- Shell Prompt: [starship](https://github.com/starship/starship)
-- System Info: [macchina](https://github.com/Macchina-CLI/macchina)
+- System Info: [neofetch](https://github.com/dylanaraps/neofetch)
 ---
-- File Manager: [nnn](https://github.com/jarun/nnn) and [Thunar](https://docs.xfce.org/xfce/thunar/start)
+- File Manager: [Thunar](https://docs.xfce.org/xfce/thunar/start)
 - Ebook Reader: [zathura](https://github.com/pwmt/zathura)
 - Image Viewer: [qView](https://github.com/jurplel/qView)
 - Video Player: [mpv](https://github.com/mpv-player/mpv)
