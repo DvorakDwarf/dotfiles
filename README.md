@@ -39,10 +39,10 @@ Here are some details about my setup:
 
 > __WARNING!!! Backup your dotfiles from your home directory. These steps below will overwrite your configs.__
 
-- Clone this repo to your preferred directory and cd into it - ```git clone https://github.com/junnunkarim/dotfiles-linux && cd dotfiles-linux```
+- Clone this repo to your preferred directory and cd into it - ```git clone https://github.com/DvorakDwarf/dotfiles.git```
 
-- Install mandatory dependencies
-	- ```sudo pacman -Su --needed base-devel coreutils xorg wezterm lua feh ttf-iosevka-nerd ttc-iosevka wmctrl```
+- Install all the pacman stuff
+	- ```sudo pacman -Su --needed base-devel coreutils xorg feh ttf-iosevka-nerd i3 xorg-xinit```
 - Copy necessary configs -
 	- ```cp -rf .bin .Xresources .xinitrc ~```
     - If you won't use my bashrc then add ```.bin``` to your $PATH variable
