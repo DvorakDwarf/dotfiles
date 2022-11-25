@@ -54,8 +54,8 @@ bindsym $mod+q kill
 # bindsym $mod+d exec --no-startup-id ~/.config/rofi/launchers/type-2/launcher.sh
 
 #Rofi
-bindsym $mod+d exec --no-startup-id /home/titleless/.config/rofi/scripts/launcher_t6
-bindsym $mod+Shift+q exec --no-startup-id /home/titleless/.config/rofi/scripts/powermenu_t4
+bindsym $mod+d exec --no-startup-id /home/$USER/.config/rofi/scripts/launcher_t6
+bindsym $mod+Shift+q exec --no-startup-id /home/$USER/.config/rofi/scripts/powermenu_t4
 
 #Screenshot
 bindsym $mod+z exec flameshot gui
