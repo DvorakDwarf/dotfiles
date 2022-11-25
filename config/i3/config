@@ -215,10 +215,9 @@ gaps inner 10
 gaps outer 0
 smart_gaps on
 
-exec picom --experimental-backends -b
+exec picom -b
 exec dunst
 exec firefox
-exec Spotify
 exec discord
 
 exec setxkbmap -layout us,ru -option grp:alt_shift_toggle
@@ -228,5 +227,5 @@ exec xrandr --output DP-3 --mode 1920x1080 --rotate right --right-of HDMI-0
 exec_always feh --bg-center --bg-fill /home/titleless/Images/vert_green_upscaled.jpg /home/titleless/Images/horiz_green_1920x1080_upscaled.jpg&
 # exec_always setxkbmap -layout "us,ru" -variant "intl, " -option grp:alt_shift_toggle
 exec_always setxkbmap -layout us,ru -option grp:alt_shift_toggle
-exec_always sh /home/titleless/.config/polybar/launch.sh
-exec_always sh /home/titleless/.config/conky/Auva/start.sh
+exec_always sh /home/$USER/.config/polybar/launch.sh
+exec_always sh /home/$USER/.config/conky/Auva/start.sh
