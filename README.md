@@ -4,26 +4,25 @@
 Details:
 - OS: [Arch Linux](https://archlinux.org/)
 - Terminal: [Alacritty](https://github.com/alacritty/alacritty)
-- Shell: [oh-my-zsh](https://ohmyz.sh/)
+- Shell: [Oh-My-Zsh](https://ohmyz.sh/)
 - WM: [i3](https://i3wm.org/)
-- Editor: [vscode](https://github.com/microsoft/vscode)
+- Editor: [VScode](https://github.com/microsoft/vscode)
 ---
-- Status Bar: [polybar](https://github.com/polybar/polybar)
-- Lock Screen: [slock-flexipatch](https://github.com/bakkeby/slock-flexipatch)
-- App Menu: [rofi](https://github.com/davatorium/rofi)
+- Status Bar: [Polybar](https://github.com/polybar/polybar)
+- App Menu: [Rofi](https://github.com/davatorium/rofi)
 - Notification Daemon: [Dunst](https://github.com/dunst-project/dunst)
 - AUR helper: [Paru](https://github.com/Morganamilo/paru)
-- Compositor: [picom](https://github.com/yshui/picom)
+- Compositor: [Picom](https://github.com/yshui/picom)
 ---
 - Font: [Iosevka Nerd Font](https://www.nerdfonts.com/)
-- System Info: [neofetch](https://github.com/dylanaraps/neofetch)
-- Desktop System Manager: [conky](https://github.com/brndnmtthws/conky)
+- System Info: [Neofetch](https://github.com/dylanaraps/neofetch)
+- Desktop System Manager: [Conky](https://github.com/brndnmtthws/conky)
 ---
 - Browser: [Firefox](https://github.com/mozilla/)
 - File Manager: [Thunar](https://docs.xfce.org/xfce/thunar/start)
-- Ebook Reader: [zathura](https://github.com/pwmt/zathura)
-- Image Viewer: [feh](https://github.com/derf/feh)
-- Video Player: [mpv](https://github.com/mpv-player/mpv)
+- Ebook Reader: [Zathura](https://github.com/pwmt/zathura)
+- Image Viewer: [Feh](https://github.com/derf/feh)
+- Video Player: [MPV](https://github.com/mpv-player/mpv)
 - ScreenShot: [Flameshot](https://github.com/flameshot-org/flameshot)
 
 # Setup 
