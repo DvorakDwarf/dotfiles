@@ -43,7 +43,7 @@ Here are some details about my setup:
 - Clone this repo to your preferred directory and cd into it - ```git clone https://github.com/DvorakDwarf/dotfiles.git```
 
 - Install all the pacman stuff
-	- ```sudo pacman -S base-devel coreutils xorg feh ttf-iosevka-nerd i3 xorg-xinit zsh zsh-completions lxappearance flameshot polybar ly rofi dunst picom mpv thunar thunar-archive-plugin conky```
+	- ```sudo pacman -S base-devel coreutils xorg feh ttf-iosevka-nerd i3 xorg-xinit zsh zsh-completions lxappearance flameshot polybar ly rofi dunst picom mpv thunar thunar-archive-plugin conky feh```
 - Install my recommended programs
 	- ```sudo pacman -S neofetch zathura firefox qview discord steam```
 - Install paru (AUR helper)
