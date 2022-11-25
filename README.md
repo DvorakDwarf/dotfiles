@@ -22,7 +22,7 @@ Details:
 - Browser: [Firefox](https://github.com/mozilla/)
 - File Manager: [Thunar](https://docs.xfce.org/xfce/thunar/start)
 - Ebook Reader: [zathura](https://github.com/pwmt/zathura)
-- Image Viewer: [qView](https://github.com/jurplel/qView)
+- Image Viewer: [feh](https://github.com/derf/feh)
 - Video Player: [mpv](https://github.com/mpv-player/mpv)
 - ScreenShot: [Flameshot](https://github.com/flameshot-org/flameshot)
 
