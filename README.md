@@ -6,13 +6,11 @@ Details:
 - Terminal: [Alacritty](https://github.com/alacritty/alacritty)
 - Shell: [oh-my-zsh](https://ohmyz.sh/)
 - WM: [i3](https://i3wm.org/)
-- Login Manager: [ly](https://github.com/fairyglade/ly)
 - Editor: [vscode](https://github.com/microsoft/vscode)
 ---
 - Status Bar: [polybar](https://github.com/polybar/polybar)
 - Lock Screen: [slock-flexipatch](https://github.com/bakkeby/slock-flexipatch)
 - App Menu: [rofi](https://github.com/davatorium/rofi)
-- Network Menu: [networkmanager-dmenu](https://github.com/firecat53/networkmanager-dmenu)
 - Notification Daemon: [Dunst](https://github.com/dunst-project/dunst)
 - AUR helper: [Paru](https://github.com/Morganamilo/paru)
 - Compositor: [picom](https://github.com/yshui/picom)
@@ -40,7 +38,7 @@ Details:
 - Clone this repo to your preferred directory and cd into it - ```git clone https://github.com/DvorakDwarf/dotfiles.git```
 
 - Install all the pacman stuff
-	- ```sudo pacman -S base-devel coreutils xorg feh ttf-iosevka-nerd i3 xorg-xinit zsh lxappearance flameshot polybar ly rofi dunst picom mpv thunar thunar-archive-plugin conky feh```
+	- ```sudo pacman -S base-devel coreutils xorg feh ttf-iosevka-nerd i3 xorg-xinit zsh lxappearance flameshot polybar rofi dunst picom mpv thunar thunar-archive-plugin conky feh```
 - Install my recommended programs
 	- ```sudo pacman -S neofetch zathura firefox qview discord steam vtop```
 - Install paru (AUR helper)
@@ -54,7 +52,7 @@ Details:
 	-```git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting```
 - Change shell to zsh 
 	-```sudo chsh $USER -s /bin/zsh```
-- Copy necessary configs
+- Copy necessary configs from the repo
 - Install BetterDiscord
 	- betterdiscordctl install
 	- For themes, install ```Dark+, Float, and Discord 11```
@@ -65,7 +63,8 @@ Details:
 	- The theme I used was ```onepunch```
 - Open ```$HOME/.config/i3/config``` in a text editor and modify the keybindings to your needs
 - use lxappearence to set the theme. I use Graphite-green-dark. It should have been installed on the AUR stage
--DM me on discord if you are having issues
+- vscode theme I use is [Gruvbox-ish](https://marketplace.visualstudio.com/items?itemName=GracefulPotato.gruvbox-ish)
+- DM me on discord if you are having issues
 </details>
 	
 # Screenshots
