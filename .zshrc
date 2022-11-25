@@ -107,4 +107,4 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 # alias pacman="sudo pacman"
-export PATH=$PATH:/home/titleless/.spicetify
+export PATH=$PATH:/$HOME/.spicetify
